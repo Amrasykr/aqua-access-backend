@@ -4,9 +4,9 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "NFID Backend API",
+      title: "Aqua Access API",
       version: "1.0.0",
-      description: "API documentation for NFID Backend - Dispenser Management System",
+      description: "API documentation for Aqua Access Backend - Dispenser Management System",
       contact: {
         name: "API Support",
       },
